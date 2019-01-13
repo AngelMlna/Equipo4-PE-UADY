@@ -44,4 +44,4 @@ target_value = int(input())
 busqueda_binaria(primes, target_value)
 
 #Se imprimen los resultados
-print("The target was found: found/index/#of attempts",busqueda_binaria(primes, target_value))
+print("The target was: found/last index/# of attempts",busqueda_binaria(primes, target_value))
