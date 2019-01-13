@@ -1,0 +1,5 @@
+Trabajo(s) | Descripción | Fecha | Fecha de finalización aproximada | Fecha de finalización | Notas
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+Elección de lenguaje a utilizar | Ponerse de acuerdo entre todos sobre la elección del lenguaje a usar para el proyecto final. | 10 de enero del 2019 | Mismo día | 10 de enero del 2019 | Se eligió Python 3 (Python 3.7.2)
+Elección de proyecto | Ponerse de acuerdo entre todos sobre la elección del proyecto final. | 10 de enero del 2019 | ------------- | ------------- | -------------
+Búsqueda Binaria | División de actividades para la actividad. **Jorge:** Codificación de la búsqueda en Python 3./Revisión de diapositiva. **Ángel:** Diseño de diapositiva/Revisión del código. **José:** Diseño de diapositiva/Revisión del código | 11 de enero del 2019 | 13 de enero del 2019 | ------------- | -------------
